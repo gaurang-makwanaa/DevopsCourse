@@ -1,0 +1,3 @@
+Hello, this is my first text file!
+Writing content using Python file handling.
+File functions: open() and write().
